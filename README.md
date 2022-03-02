@@ -111,7 +111,7 @@ The following tools were used in the construction of the project:
 
 > See the file [package.json](https://github.com/evelinsteiger/README-template/blob/master/package.json)
 
-#### [](#)**Utilitários**
+#### [](#)**Utils**
 
 - API: **[IBGE API](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)** → **[API de UFs](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet)**, **[API de Municípios](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)**
 - Maps: **[Leaflet](https://react-leaflet.js.org/en/)**
