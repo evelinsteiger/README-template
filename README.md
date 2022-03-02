@@ -123,14 +123,13 @@ The following tools were used in the construction of the project:
 
 ## Author
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/43473157?v=4" width="100px;" alt="Evelin Steiger"/>
+<a href="https://www.linkedin.com/in/evelinsteiger/">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFY3bB4gWUEVw/profile-displayphoto-shrink_200_200/0/1638286563108?e=1651708800&v=beta&t=WQhkU4GF5vPmHiAb788WkvXJaXnyKhYz5oarqqcfGBA" width="100px;" alt="Evelin Steiger"/>
  <br />
- <sub><b>Evelin Steiger</b></sub></a>
+ <p><b>Evelin Steiger</b></p></a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Evelin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelinsteiger/)](https://www.linkedin.com/in/evelinsteiger/)
-[![Gmail Badge](https://img.shields.io/badge/-evelinsteiger1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evelinsteiger1@gmail.com)](mailto:evelinsteiger1@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Evelin%20Steiger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelinsteiger/)](https://www.linkedin.com/in/evelinsteiger/)
 
 ---
 
