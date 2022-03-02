@@ -124,10 +124,9 @@ The following tools were used in the construction of the project:
 ## Author
 
 <a href="https://www.linkedin.com/in/evelinsteiger/">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFY3bB4gWUEVw/profile-displayphoto-shrink_200_200/0/1638286563108?e=1651708800&v=beta&t=WQhkU4GF5vPmHiAb788WkvXJaXnyKhYz5oarqqcfGBA" width="100px;" alt="Evelin Steiger"/>
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFY3bB4gWUEVw/profile-displayphoto-shrink_200_200/0/1638286563108?e=1651708800&v=beta&t=WQhkU4GF5vPmHiAb788WkvXJaXnyKhYz5oarqqcfGBA" width="70px;" alt="Evelin Steiger"/>
  <br />
  <p><b>Evelin Steiger</b></p></a>
- <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Evelin%20Steiger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelinsteiger/)](https://www.linkedin.com/in/evelinsteiger/)
 
