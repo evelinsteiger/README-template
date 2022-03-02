@@ -40,8 +40,6 @@
 
 PROJECT - Is a way to help build a new project in React using a folder structure and pre-assembled and customized components.
 
-<!-- Project developed by ** Vest Surf Team ** offered by [Vest Surf](https://www.vestsurf.com/). -->
-
 ---
 
 ## Features
